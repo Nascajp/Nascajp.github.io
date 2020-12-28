@@ -13,7 +13,7 @@ body {
 
 .container {
   width: 100%;
-  /* padding: 0 15px; */
+  padding: 0 15px;
   margin: 0 auto;
 }
 
@@ -34,7 +34,6 @@ body {
 }
 
 .top-wrapper p {
-  
   opacity: 0.9;
   font-size: 20px;
   margin-bottom: 0px;
@@ -99,7 +98,7 @@ header {
 .header-left h2 {
   line-height: 30px;
   padding: 50 0px;
-  padding-left: 30px;
+  /* padding-left: 30px; */
   color: white;
   display: block;
   float: left;
@@ -217,7 +216,7 @@ footer p {
 footer {
   padding-top: 10px;
   padding-bottom: 20px;
-  padding-left: 30px;
+  /* padding-left: 30px; */
 }
 
 .menu-icon {
@@ -296,11 +295,5 @@ footer {
 
   .message-wrapper .btn {
     width: 100%;
-  }
-  
-  .footer {
-    padding-top: 10px;
-    padding-bottom: 20px;
-    padding-left: 0px;
   }
 }
