@@ -275,7 +275,7 @@ footer {
   }
 
   .top-wrapper {
-    text-align: left;
+    text-align: center;
   }
 
   .top-wrapper h1 {
@@ -291,7 +291,7 @@ footer {
   }
 
   .lesson-wrapper {
-    height: 1800px;
+    height: 2300px;
   }
 
   .message-wrapper .btn {
