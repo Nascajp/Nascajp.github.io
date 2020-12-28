@@ -297,4 +297,10 @@ footer {
   .message-wrapper .btn {
     width: 100%;
   }
+  
+  .footer {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+  }
 }
